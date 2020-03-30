@@ -23,17 +23,19 @@ My Guide and Journey to becoming Full-Stack capable
   </UL>
 <h2>3. Back-End Language</h2> 
 <UL>
+<LI>Java: [Proficient] Many companies still use Java as their back-end and it is still a very in-demand language.
+<LI>Golang: Efficient concurrency language similar to Java. Multiple returns and explicit in language choices that is increasing inpopularity. Error handling takes the return early and often approach.
 <LI>Node.js: This is a great option because Node.js is itself just a JavaScript environment which means you don’t need to learn a new language. This is a big reason why a lot of online programs and bootcamps choose to teach Node.js. The most popular framework you’d most likely learn to aid you in developing web applications is Express.
-<LI>Ruby: Some popular frameworks for developing in Ruby are Rails and Sinatra. Plenty of programs teach Ruby as a first back-end language.
-<LI>Python: Some popular frameworks for developing in Python are Django and Flask.
-<LI>Java: [Proficient] The Java language isn’t taught so much these days when it comes to Full-Stack Web Development, but some companies do use Java as their back-end and it is still a very in-demand language (see image above).
-<LI>PHP: PHP is rarely taught in programs these days, but just like with Java, it is still very in-demand and it is a cornerstone of the web today.
+<LI>Ruby: Many programs teach Ruby as the first back-end language.
+<LI>Python: While I see Python most often in data analysis, it is quite popular and easy to pick up as a first language.
+<LI>PHP: While it is rarely taught in programs, it is still very in-demand and it is a cornerstone of the web today.
   </UL>
 
 <h2>4. Databases & Web Storage </h2>
 [Complete]
 <UL>
-<LI>Understand the benefits of relational data, e.g. SQL.
+<LI>Understand the benefits of relational data, e.g. SQL, MYSQL etc.
+<LI>Know how to create an Entity Relationship Diagram (ERD).
 <LI>Learn about NoSQL databases, e.g. MongoDB.
 <LI>Understand which would be better in certain situations.
 <LI>Know how to connect a database with your chosen back-end language (e.g. Node.js + MongoDB).
@@ -49,7 +51,7 @@ My Guide and Journey to becoming Full-Stack capable
 <LI>Best practices for designing a RESTful API. POST/GET requests.
 <LI>Learning how to use Chrome DevTools can be extremely helpful.
 <LI>What are SSL Certificates.
-<LI>HTTP/2 & SPDY (optional).
+<LI>HTTP/2 & SPDY & gRPC (optional).
 <LI>WebSockets, Web Workers, and Service Workers (all optional).
 
 </UL>
@@ -57,12 +59,12 @@ My Guide and Journey to becoming Full-Stack capable
 <h2>6. Web Application Architecture </h2>
 [Started Improving]
 <UL>
-<LI>out common platforms as a service, e.g. Heroku and AWS. Heroku allows you to easily upload your code and have an application up and running with very little configuration or server maintenance and AWS offers dozens of products and services to help with storage, video processing, load balancing, and much more.
+<LI>Familarize with platforms as a service(PaaS), e.g. Heroku and AWS. Heroku allows you to easily upload your code and have an application up and running with very little configuration or server maintenance and AWS offers dozens of products and services to help with storage, video processing, load balancing, and much more.
 <LI>Performance optimization for applications and modern browsers.
 <LI>Some opinions on what a web application architecture should include.
 <LI>Designing Web Applications by Microsoft.
 MVC.
-<LI>Most importantly though you should try to work on projects with people, look at codebases of popular projects on GitHub, and learn as much as you can from senior developers.
+<LI>Most importantly try to work collaboratively on small tasks with a variety of people (in-person, remote, singlular, teams). Look at codebases and examples of projects on GitHub or CodePen. Don't be afraid to ask a "stupid" question. We all likely had your question at one point or another.
   
  </UL>
 
